@@ -13,7 +13,7 @@ class App extends React.Component {
         super();
 
         this.state = {
-            headerText: 'Name It!',
+            headerText: 'Search It!',
             headerExpanded: true,
             suggestedNames: [],
         };

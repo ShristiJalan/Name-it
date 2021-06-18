@@ -1,6 +1,6 @@
 .result-name-card {
-    color: #e7e9f0;
-    background-color: #282d4f;
+    color: black;
+    background-color: #ff616d;
     margin: 10px 15px;
     min-width: 75px;
     padding: 10px 20px;
@@ -16,7 +16,7 @@
 }
 
 .result-name-card:hover {
-    background: #4a5079;
+    background: #66de93;
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
 }
 
